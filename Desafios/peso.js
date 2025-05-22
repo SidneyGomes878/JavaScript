@@ -1,3 +1,13 @@
+/* Desafio proposto pelo curso de JavaScript da Digital Innovation One
+
+O IMC – Indice de Massa Corporal é um critério da Organização Mundial de 
+Saúde para dar uma indicação sobre a condição de peso de uma pessoa adulta.
+
+Formula do IMC: IMC = peso / (altura * altura)
+
+Elabore um algoritmo que dado o peso e a altura de um adulto mostre sua condição 
+.*/ 
+
 const nome = "Jonh";
 const peso = 60;
 const altura = 1.90;

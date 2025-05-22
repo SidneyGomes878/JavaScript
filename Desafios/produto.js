@@ -1,3 +1,10 @@
+/* Desafio proposto pelo curso de JavaScript da Digital Innovation One
+
+elabore um algoritmo que calcule o que deve ser pago por um produto, considerando 
+o preço normal de etiqueta, escolha da condição de pagamento e coloque desconto no pagamento. 
+
+*/
+
 const Produto = "Saxofone"
 const Preco = 2500
 const pagamento = "Cartão"

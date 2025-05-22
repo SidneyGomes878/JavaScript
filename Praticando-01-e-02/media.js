@@ -1,3 +1,9 @@
+/* Desafio proposto pelo curso de JavaScript da Digital Innovation One
+
+algorítimo dado as 3 notas tiradas por um aluno em um semestre da faculdade 
+calcule e imprima a sua média e a sua classificação conforme a tabela abaixo.
+*/
+
 const aluno = 'Sidney';
 const nota1unidade = 3
 const nota2unidade = 3
