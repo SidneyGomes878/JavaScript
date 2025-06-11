@@ -3,3 +3,5 @@ function numero(valor){
 }
 
 console.log(numero(1000))
+
+//utilizando funções
